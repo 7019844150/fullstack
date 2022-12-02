@@ -1,1 +1,5 @@
 this is updated in file 1
+<<<<<<< HEAD
+=======
+this text is updated in firstbranch
+>>>>>>> firstbranch
